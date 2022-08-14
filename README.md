@@ -10,7 +10,7 @@ The aim of DVWA is to practice some of the most common web vulnerability, with v
 
 ## Run this image
 
-To run this image you need [docker](http://docker.com) installed. Just run the command:
+To run this image you need [docker](http://docker.com) installed. Just run the command::
 
     docker run --rm -it -p 80:80 vulnerables/web-dvwa
 
